@@ -1,4 +1,3 @@
-// redirect.ts
 
 // Define the redirect URL
 const redirectUrl = "https://vriffych.com.es/c/"; // Replace with the URL you want to redirect to
